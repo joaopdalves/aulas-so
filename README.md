@@ -84,9 +84,3 @@ Os sistemas operacionais são essenciais porque:
 ## 📚 Conclusão
 
 O sistema operacional é a base de qualquer sistema computacional moderno. Compreender seu funcionamento é essencial para estudantes e profissionais da área de tecnologia da informação.
-
----
-
-## ✍️ Autor
-
-Documento criado para fins educacionais.
