@@ -18,4 +18,4 @@ Este documento apresenta a cronologia dos principais lançamentos de Sistemas Op
 | **2008** | Android | Sistema de código aberto que democratizou o acesso à tecnologia móvel. |
 
 ---
-**Atividade Realizada via:** [Miro](https://miro.com/pt/) "vamos alterar o link dps "
+**Atividade Realizada via:** [Miro](https://miro.com/pt/)
