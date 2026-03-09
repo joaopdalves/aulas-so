@@ -1,8 +1,8 @@
 # 🖥️ Atividade — Estrutura e Arquitetura de Sistemas Operacionais
 
-> ### 🏫 **Instituição:** FATEC — Faculdade de Tecnologia
-> ### 👨‍🏫 **Professor:** Prof. Me. Deivison S. Takatu
-> ### 📚 **Disciplina:** Sistemas Operacionais — Aula 04
+> ##### 🏫 **Instituição:** FATEC — Faculdade de Tecnologia
+> ##### 👨‍🏫 **Professor:** Prof. Me. Deivison S. Takatu
+> ##### 📚 **Disciplina:** Sistemas Operacionais — Aula 04
 
 ---
 
