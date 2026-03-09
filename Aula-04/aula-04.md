@@ -117,7 +117,7 @@ O **Android Auto** é a resposta do Google ao CarPlay. Assim como o CarPlay, ele
 
 ## 🧠 Item 3 — Análise e Conclusão
 
-![GIF] <img src="https://media.tenor.com/_6N6J2xPY_wAAAAj/tux-linux.gif" width="50">
+<img src="https://media.tenor.com/_6N6J2xPY_wAAAAj/tux-linux.gif" width="200">
 
 A pesquisa evidencia que o reaproveitamento de sistemas operacionais existentes é uma prática consolidada na indústria de tecnologia. As principais vantagens observadas são:
 
