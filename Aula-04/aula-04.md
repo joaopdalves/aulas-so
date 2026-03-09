@@ -6,7 +6,7 @@
 
 ---
 
-![GIF](https://media4.giphy.com/media/JmJMzlXOiI0dq/100.gif)
+<img src="https://media4.giphy.com/media/JmJMzlXOiI0dq/100.gif" width="100">
 
 > *"A maioria dos dispositivos não cria um sistema operacional do zero. Em vez disso, utilizam sistemas existentes e os adaptam para seu hardware específico."*
 
