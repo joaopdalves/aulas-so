@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/uPKBSSYU8BcAAAAi/computer-pixel.gif" width="300" align="center">
+<center><img src="https://media.tenor.com/uPKBSSYU8BcAAAAi/computer-pixel.gif" width="300"></center>
 
 # 🖥️ Atividade — Estrutura e Arquitetura de Sistemas Operacionais
 
