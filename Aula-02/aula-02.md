@@ -613,3 +613,4 @@ São infraestruturas invisíveis que sustentam:
 - Ecossistemas digitais inteiros.
 
 Dominar esse campo é compreender os mecanismos fundamentais que estruturam a era digital 🚀.
+
