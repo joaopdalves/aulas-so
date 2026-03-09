@@ -43,13 +43,13 @@ O Chrome OS, desenvolvido pelo Google para Chromebooks, é baseado no kernel Lin
 
 ## 2. Tabela Comparativa
 
-| Sistema Operacional | Sistema Base        | Kernel Utilizado      | Público-Alvo             | Interface Gráfica         | Modelo de Distribuição | Diferencial Principal                                  |
-|---------------------|---------------------|-----------------------|--------------------------|---------------------------|------------------------|--------------------------------------------------------|
-| **Android**         | Linux               | Linux (modificado)    | Smartphones e tablets    | Material Design (Google)  | Open Source (AOSP)     | Integração com hardware móvel, sensores e Play Store   |
-| **macOS**           | Darwin / BSD (Unix) | XNU (Mach + BSD)      | Computadores Apple       | Aqua (Apple)              | Proprietário           | Integração com ecossistema Apple e hardware dedicado   |
-| **Ubuntu**          | Debian Linux        | Linux                 | Desktops, servidores     | GNOME (padrão)            | Open Source / Gratuito | Facilidade de uso, suporte LTS e grande comunidade     |
-| **iOS**             | Darwin / BSD (Unix) | XNU (Mach + BSD)      | iPhones e iPads          | Cocoa Touch (Apple)       | Proprietário           | Segurança rigorosa, sandbox de apps, otimização Apple  |
-| **Chrome OS**       | Gentoo Linux        | Linux                 | Chromebooks / educação   | Chrome Shell (Aura)       | Open Source (Chromium) | Foco em nuvem, boot rápido e suporte a apps Android    |
+| Sistema Operacional | Sistema Base | Kernel | Público-Alvo | Interface | Distribuição | Diferencial Principal |
+|---|---|---|---|---|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="20"/> **Android** | Linux | Linux (modificado) | Smartphones e tablets | Material Design | Open Source (AOSP) | Integração com hardware móvel, sensores e Play Store |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="20"/> **macOS** | Darwin / BSD (Unix) | XNU (Mach + BSD) | Computadores Apple | Aqua | Proprietário | Integração com ecossistema Apple e hardware dedicado |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="20"/> **Ubuntu** | Debian Linux | Linux | Desktops e servidores | GNOME | Open Source | Facilidade de uso, suporte LTS e grande comunidade |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="20"/> **iOS** | Darwin / BSD (Unix) | XNU (Mach + BSD) | iPhones e iPads | Cocoa Touch | Proprietário | Segurança rigorosa, sandbox e otimização para hardware Apple |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="20"/> **Chrome OS** | Gentoo Linux | Linux | Chromebooks / educação | Chrome Shell (Aura) | Open Source | Foco em nuvem, boot ultrarrápido e suporte a apps Android |
 
 ---
 
