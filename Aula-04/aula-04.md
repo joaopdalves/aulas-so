@@ -4,9 +4,6 @@
 
 # 🖥️ Atividade — Estrutura e Arquitetura de Sistemas Operacionais
 
-![Base](https://img.shields.io/badge/Base-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-
 > #### 🏫 **Instituição:** FATEC — Faculdade de Tecnologia
 > #### 👨‍🏫 **Professor:** Prof. Me. Deivison S. Takatu
 > #### 📚 **Disciplina:** Sistemas Operacionais — Aula 04
@@ -30,11 +27,21 @@
 
 ### 1. 🤖 Android — baseado no Kernel Linux
 
+![Base](https://img.shields.io/badge/Base-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kernel](https://img.shields.io/badge/Kernel-Linux%20Modificado-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Plataforma](https://img.shields.io/badge/Plataforma-Mobile-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Licença](https://img.shields.io/badge/Licen%C3%A7a-Open%20Source-brightgreen?style=flat-square&logo=opensourceinitiative&logoColor=white)
+
 O Android, desenvolvido pelo Google, utiliza o kernel Linux como base. O sistema foi adaptado para dispositivos móveis com toque, sensores e conectividade constante, adicionando uma camada de runtime própria (ART — Android Runtime) e uma interface gráfica completamente redesenhada para smartphones e tablets.
 
 ---
 
 ### 2. 🍎 macOS — baseado no Darwin/BSD (Unix)
+
+![Base](https://img.shields.io/badge/Base-Darwin%20%2F%20BSD-000000?style=flat-square&logo=apple&logoColor=white)
+![Kernel](https://img.shields.io/badge/Kernel-XNU%20(Mach%20%2B%20BSD)-000000?style=flat-square&logo=apple&logoColor=white)
+![Plataforma](https://img.shields.io/badge/Plataforma-Desktop-lightgrey?style=flat-square&logo=apple&logoColor=black)
+![Licença](https://img.shields.io/badge/Licen%C3%A7a-Propriet%C3%A1rio-red?style=flat-square&logo=apple&logoColor=white)
 
 O macOS da Apple é construído sobre o Darwin, que por sua vez deriva do BSD (Berkeley Software Distribution), uma variação do Unix. A Apple adaptou esse núcleo robusto adicionando sua interface gráfica Aqua, ferramentas proprietárias e integração com o ecossistema Apple (iCloud, iPhone, etc.).
 
@@ -42,17 +49,32 @@ O macOS da Apple é construído sobre o Darwin, que por sua vez deriva do BSD (B
 
 ### 3. 🟠 Ubuntu — baseado no Debian Linux
 
+![Base](https://img.shields.io/badge/Base-Debian%20Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Kernel](https://img.shields.io/badge/Kernel-Linux-E95420?style=flat-square&logo=linux&logoColor=white)
+![Plataforma](https://img.shields.io/badge/Plataforma-Desktop%20%2F%20Servidor-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Licença](https://img.shields.io/badge/Licen%C3%A7a-Open%20Source-brightgreen?style=flat-square&logo=opensourceinitiative&logoColor=white)
+
 O Ubuntu, desenvolvido pela Canonical, é uma distribuição Linux derivada do Debian. Mantém o sistema de pacotes APT e a base Debian, mas adiciona um ciclo de lançamentos previsível (a cada 6 meses), suporte LTS (Long Term Support) e uma experiência de usuário mais acessível, sendo amplamente utilizado em desktops e servidores.
 
 ---
 
 ### 4. 📱 iOS — baseado no Darwin/BSD (Unix) / XNU Kernel
 
+![Base](https://img.shields.io/badge/Base-Darwin%20%2F%20BSD-000000?style=flat-square&logo=apple&logoColor=white)
+![Kernel](https://img.shields.io/badge/Kernel-XNU%20(Mach%20%2B%20BSD)-000000?style=flat-square&logo=apple&logoColor=white)
+![Plataforma](https://img.shields.io/badge/Plataforma-Mobile-007AFF?style=flat-square&logo=ios&logoColor=white)
+![Licença](https://img.shields.io/badge/Licen%C3%A7a-Propriet%C3%A1rio-red?style=flat-square&logo=apple&logoColor=white)
+
 O iOS, sistema operacional da Apple para iPhones e iPads, compartilha o mesmo kernel (XNU) e base Darwin do macOS. Apesar da origem comum, o iOS foi profundamente adaptado para hardware com recursos limitados de bateria, tela sensível ao toque e foco em segurança e privacidade móvel, com uma sandbox rigorosa para aplicativos.
 
 ---
 
 ### 5. 🌐 Chrome OS — baseado no Kernel Linux / Gentoo
+
+![Base](https://img.shields.io/badge/Base-Gentoo%20Linux-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Kernel](https://img.shields.io/badge/Kernel-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Plataforma](https://img.shields.io/badge/Plataforma-Desktop%20%2F%20Educa%C3%A7%C3%A3o-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Licença](https://img.shields.io/badge/Licen%C3%A7a-Open%20Source-brightgreen?style=flat-square&logo=opensourceinitiative&logoColor=white)
 
 O Chrome OS, desenvolvido pelo Google para Chromebooks, é baseado no kernel Linux e deriva da distribuição Gentoo Linux. O sistema foi adaptado para funcionar com foco em navegação web, armazenamento em nuvem e inicialização extremamente rápida, substituindo aplicativos tradicionais por Progressive Web Apps (PWAs) e aplicativos Android (via Play Store).
 
@@ -70,11 +92,21 @@ Os consoles modernos também são exemplos práticos de reaproveitamento de estr
 
 ### 6. 🟩 Xbox Series X|S — Microsoft Game OS
 
+![Base](https://img.shields.io/badge/Base-Windows%20NT-107C10?style=flat-square&logo=xbox&logoColor=white)
+![Kernel](https://img.shields.io/badge/Kernel-NT%20Kernel%20Modificado-107C10?style=flat-square&logo=windows&logoColor=white)
+![Plataforma](https://img.shields.io/badge/Plataforma-Console-107C10?style=flat-square&logo=xbox&logoColor=white)
+![Licença](https://img.shields.io/badge/Licen%C3%A7a-Propriet%C3%A1rio-red?style=flat-square&logo=microsoft&logoColor=white)
+
 O **Microsoft Game OS** é o sistema operacional das consolas Xbox Series X e Series S. Baseado no **Windows NT**, ele é uma versão profundamente customizada do núcleo Windows, otimizada para jogos com suporte a DirectX 12 Ultimate, ray tracing e carregamento ultrarrápido via SSD NVMe personalizado (Velocity Architecture). Utiliza um modelo de dual-OS: um lado cuida da interface e jogos, o outro gerencia serviços em segundo plano como o Xbox Game Pass e o Game DVR.
 
 ---
 
 ### 7. 🔵 PlayStation 5 — Orbis OS
+
+![Base](https://img.shields.io/badge/Base-FreeBSD%20(Unix)-003087?style=flat-square&logo=playstation&logoColor=white)
+![Kernel](https://img.shields.io/badge/Kernel-FreeBSD%20Kernel-003087?style=flat-square&logo=freebsd&logoColor=white)
+![Plataforma](https://img.shields.io/badge/Plataforma-Console-003087?style=flat-square&logo=playstation&logoColor=white)
+![Licença](https://img.shields.io/badge/Licen%C3%A7a-Propriet%C3%A1rio-red?style=flat-square&logo=sony&logoColor=white)
 
 O **Orbis OS** é o sistema operacional do PlayStation 4 e 5, desenvolvido pela Sony. É baseado no **FreeBSD**, uma distribuição Unix de código aberto. A Sony adaptou profundamente o FreeBSD para suportar arquitetura x86-64 personalizada (nos consoles mais recentes com AMD), APIs gráficas proprietárias (GNM/GNMX), e recursos exclusivos como o temporizador háptico do DualSense. Por ser derivado do FreeBSD, mantém características como estabilidade, segurança e gerenciamento eficiente de memória.
 
@@ -82,11 +114,21 @@ O **Orbis OS** é o sistema operacional do PlayStation 4 e 5, desenvolvido pela 
 
 ### 8. 🔴 Nintendo Switch — Horizon OS (HOS)
 
+![Base](https://img.shields.io/badge/Base-Microkernel%20Pr%C3%B3prio-E60012?style=flat-square&logo=nintendoswitch&logoColor=white)
+![Kernel](https://img.shields.io/badge/Kernel-Microkernel%20Nintendo-E60012?style=flat-square&logo=nintendoswitch&logoColor=white)
+![Plataforma](https://img.shields.io/badge/Plataforma-Console%20%2F%20Portátil-E60012?style=flat-square&logo=nintendoswitch&logoColor=white)
+![Licença](https://img.shields.io/badge/Licen%C3%A7a-Propriet%C3%A1rio-red?style=flat-square&logo=nintendo&logoColor=white)
+
 O **Horizon OS** (também chamado de **HOS**) é o sistema operacional desenvolvido internamente pela Nintendo para o Switch. Diferentemente dos concorrentes, a Nintendo criou seu próprio microkernel, sem usar como base um sistema consolidado como Linux ou BSD. O HOS é um sistema leve e modular, projetado para gerenciar tanto o modo portátil (handheld) quanto o modo TV do Switch, com transição fluida entre os dois. Suporta multiplayer local, online via Nintendo Switch Online, e a eShop.
 
 ---
 
 ### 9. 🖤 Steam Deck — SteamOS 3 (Arch Linux)
+
+![Base](https://img.shields.io/badge/Base-Arch%20Linux-1A9FFF?style=flat-square&logo=archlinux&logoColor=white)
+![Kernel](https://img.shields.io/badge/Kernel-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Plataforma](https://img.shields.io/badge/Plataforma-Console%20%2F%20Desktop-1A9FFF?style=flat-square&logo=steamdeck&logoColor=white)
+![Licença](https://img.shields.io/badge/Licen%C3%A7a-Open%20Source-brightgreen?style=flat-square&logo=opensourceinitiative&logoColor=white)
 
 O **SteamOS 3** é o sistema operacional do Steam Deck, desenvolvido pela Valve. É baseado no **Arch Linux**, uma distribuição rolling release do Linux. A Valve adaptou o sistema para rodar no hardware personalizado AMD APU do Steam Deck, integrando o **KDE Plasma** como ambiente gráfico no modo desktop e o **Gamescope** como compositor Wayland no modo gaming. Utiliza o **Proton** (camada de compatibilidade baseada no Wine + DXVK) para rodar jogos nativos do Windows no Linux, tornando-se um exemplo notável de adaptação de um sistema open source para uso em hardware de consumo.
 
@@ -104,11 +146,21 @@ Os sistemas embarcados automotivos representam uma das fronteiras mais recentes 
 
 ### 10. 🍎 Apple CarPlay — baseado no iOS / Core Foundation
 
+![Base](https://img.shields.io/badge/Base-iOS%20%2F%20Darwin-000000?style=flat-square&logo=applecarplay&logoColor=white)
+![Kernel](https://img.shields.io/badge/Kernel-XNU%20(via%20iPhone)-000000?style=flat-square&logo=apple&logoColor=white)
+![Plataforma](https://img.shields.io/badge/Plataforma-Automotivo-000000?style=flat-square&logo=applecarplay&logoColor=white)
+![Licença](https://img.shields.io/badge/Licen%C3%A7a-Propriet%C3%A1rio-red?style=flat-square&logo=apple&logoColor=white)
+
 O **Apple CarPlay** é um sistema embarcado da Apple que projeta uma interface simplificada do iOS na central multimídia do veículo. Não é um sistema operacional completo independente: ele roda como uma extensão do iPhone conectado (via cabo Lightning/USB-C ou sem fio via Wi-Fi + Bluetooth), utilizando o kernel **XNU** e o framework **Core Foundation** do iOS. A central do carro age como um display remoto, enquanto o processamento é feito pelo próprio iPhone. Suporta aplicativos nativos como Maps, Music, Phone, Messages e apps de terceiros compatíveis (Spotify, WhatsApp, Waze, etc.).
 
 ---
 
 ### 11. 🤖 Android Auto — baseado no Android (Kernel Linux)
+
+![Base](https://img.shields.io/badge/Base-Android%20%2F%20Linux-3DDC84?style=flat-square&logo=androidauto&logoColor=white)
+![Kernel](https://img.shields.io/badge/Kernel-Linux%20(via%20smartphone)-3DDC84?style=flat-square&logo=linux&logoColor=white)
+![Plataforma](https://img.shields.io/badge/Plataforma-Automotivo-3DDC84?style=flat-square&logo=androidauto&logoColor=white)
+![Licença](https://img.shields.io/badge/Licen%C3%A7a-Open%20Source-brightgreen?style=flat-square&logo=opensourceinitiative&logoColor=white)
 
 O **Android Auto** é a resposta do Google ao CarPlay. Assim como o CarPlay, ele projeta uma interface otimizada para direção a partir do smartphone Android conectado ao veículo. O processamento ocorre no telefone, usando o **kernel Linux** e o runtime **ART** do Android. A interface é simplificada, com botões grandes, comandos de voz via Google Assistente e integração com Google Maps, Spotify, WhatsApp e outros apps compatíveis. Existe também o **Android Automotive OS (AAOS)**, uma versão completamente embarcada que roda diretamente no hardware do veículo sem necessitar de smartphone, como nos carros Volvo, Polestar e alguns modelos GM.
 
