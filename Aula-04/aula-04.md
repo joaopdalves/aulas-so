@@ -1,8 +1,8 @@
 # 🖥️ Atividade — Estrutura e Arquitetura de Sistemas Operacionais
 
-> ## 🏫 **Instituição:** FATEC — Faculdade de Tecnologia
-> ## 👨‍🏫 **Professor:** Prof. Me. Deivison S. Takatu
-> ## 📚 **Disciplina:** Sistemas Operacionais — Aula 04
+> ### 🏫 **Instituição:** FATEC — Faculdade de Tecnologia
+> ### 👨‍🏫 **Professor:** Prof. Me. Deivison S. Takatu
+> ### 📚 **Disciplina:** Sistemas Operacionais — Aula 04
 
 ---
 
@@ -65,7 +65,7 @@ O Chrome OS, desenvolvido pelo Google para Chromebooks, é baseado no kernel Lin
 
 ## 🧠 Item 3 — Análise e Conclusão
 
-![Linux Tux GIF](https://media1.giphy.com/media/46hMzlIbVpWPJAWdUY/giphy.gif)
+![GIF](https://media1.giphy.com/media/46hMzlIbVpWPJAWdUY/giphy.gif)
 
 A pesquisa evidencia que o reaproveitamento de sistemas operacionais existentes é uma prática consolidada na indústria de tecnologia. As principais vantagens observadas são:
 
@@ -90,5 +90,3 @@ A pesquisa evidencia que o reaproveitamento de sistemas operacionais existentes 
 - 🔗 Google. *Chrome OS Documentation*. Disponível em: https://www.chromium.org/chromium-os
 
 ---
-
-*✅ Atividade desenvolvida com base nos conteúdos da Aula 04 — FATEC*
