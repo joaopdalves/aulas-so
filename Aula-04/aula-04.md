@@ -4,13 +4,17 @@
 
 # 🖥️ Atividade — Estrutura e Arquitetura de Sistemas Operacionais
 
+![Base](https://img.shields.io/badge/Base-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+
 > #### 🏫 **Instituição:** FATEC — Faculdade de Tecnologia
 > #### 👨‍🏫 **Professor:** Prof. Me. Deivison S. Takatu
 > #### 📚 **Disciplina:** Sistemas Operacionais — Aula 04
 
 ---
-
+<p align="center">
 <img src="https://media4.giphy.com/media/JmJMzlXOiI0dq/100.gif" width="300">
+</p>
 
 > *"A maioria dos dispositivos não cria um sistema operacional do zero. Em vez disso, utilizam sistemas existentes e os adaptam para seu hardware específico."*
 
@@ -142,18 +146,5 @@ A pesquisa evidencia que o reaproveitamento de sistemas operacionais existentes 
 - 🔄 **Suporte e atualizações contínuas:** comunidades ativas e ciclos de atualização regulares beneficiam todos os sistemas derivados.
 
 > 🐧 O **Linux** demonstra ser a base mais versátil da atualidade: está presente em smartphones (**Android**), Chromebooks (**Chrome OS**), servidores (**Ubuntu**) e dispositivos embarcados (**Raspberry Pi OS**), confirmando a importância de uma arquitetura de kernel bem projetada e de código aberto.
-
----
-
-## 📚 Referências
-
-- 📖 TANENBAUM, Andrew S.; BOS, Herbert. *Sistemas Operacionais Modernos*. 4. ed. São Paulo: Pearson, 2016.
-- 📖 SILBERSCHATZ, Abraham; GALVIN, Peter B.; GAGNE, Greg. *Fundamentos de Sistemas Operacionais*. 9. ed. Rio de Janeiro: LTC, 2015.
-- 📖 STALLINGS, William. *Sistemas Operacionais: Conceitos e Projetos*. 8. ed. São Paulo: Pearson, 2015.
-- 📖 DOWNEY, Allen B. *Think OS: A Brief Introduction to Operating Systems*. Green Tea Press, 2015.
-- 🔗 Google. *Android Open Source Project (AOSP)*. Disponível em: https://source.android.com
-- 🔗 Apple Inc. *Apple Developer Documentation — XNU Kernel*. Disponível em: https://developer.apple.com
-- 🔗 Canonical Ltd. *Ubuntu Documentation*. Disponível em: https://ubuntu.com/docs
-- 🔗 Google. *Chrome OS Documentation*. Disponível em: https://www.chromium.org/chromium-os
 
 ---
