@@ -49,7 +49,7 @@ O Chrome OS, desenvolvido pelo Google para Chromebooks, é baseado no kernel Lin
 
 ## 🎮 Sistemas Operacionais de Consoles
 
-![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhid3Z0eHp5dzM0NzE2dTF1NjlvZWVmNDR2b2FqdWw5bXF6aGtzaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zOvBKUUEERdNm/giphy.gif)
+![GIF]<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhid3Z0eHp5dzM0NzE2dTF1NjlvZWVmNDR2b2FqdWw5bXF6aGtzaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zOvBKUUEERdNm/giphy.gif" width="30">
 
 Os consoles modernos também são exemplos práticos de reaproveitamento de estruturas de sistemas operacionais existentes, adaptados para o contexto de jogos com foco em desempenho gráfico, latência mínima e experiência imersiva.
 
@@ -117,7 +117,7 @@ O **Android Auto** é a resposta do Google ao CarPlay. Assim como o CarPlay, ele
 
 ## 🧠 Item 3 — Análise e Conclusão
 
-![GIF](https://media.tenor.com/_6N6J2xPY_wAAAAj/tux-linux.gif)
+![GIF](https://media.tenor.com/_6N6J2xPY_wAAAAj/tux-linux.gif) 
 
 A pesquisa evidencia que o reaproveitamento de sistemas operacionais existentes é uma prática consolidada na indústria de tecnologia. As principais vantagens observadas são:
 
