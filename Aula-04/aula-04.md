@@ -1,3 +1,5 @@
+<img src="https://media.tenor.com/uPKBSSYU8BcAAAAi/computer-pixel.gif" width="300">
+
 # 🖥️ Atividade — Estrutura e Arquitetura de Sistemas Operacionais
 
 > #### 🏫 **Instituição:** FATEC — Faculdade de Tecnologia
@@ -80,6 +82,8 @@ O **SteamOS 3** é o sistema operacional do Steam Deck, desenvolvido pela Valve.
 ---
 
 ## 🚗 Sistemas Embarcados — Apple CarPlay e Android Auto
+
+<img src="https://media.tenor.com/Oj8GKnbSArUAAAAi/alien-car-driving-alien.gif" width="300">
 
 Os sistemas embarcados automotivos representam uma das fronteiras mais recentes do reaproveitamento de infraestrutura de sistemas operacionais, levando para dentro dos veículos plataformas já consolidadas em smartphones.
 
