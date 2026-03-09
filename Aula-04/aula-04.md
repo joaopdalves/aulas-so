@@ -1,9 +1,8 @@
 # 🖥️ Atividade — Estrutura e Arquitetura de Sistemas Operacionais
 
-> 🏫 **Instituição:** FATEC — Faculdade de Tecnologia
-> 👨‍🏫 **Professor:** Prof. Me. Deivison S. Takatu
-> 📧 deivison.takatu@fatec.sp.gov.br
-> 📚 **Disciplina:** Sistemas Operacionais — Aula 04
+> ## 🏫 **Instituição:** FATEC — Faculdade de Tecnologia
+> ## 👨‍🏫 **Professor:** Prof. Me. Deivison S. Takatu
+> ## 📚 **Disciplina:** Sistemas Operacionais — Aula 04
 
 ---
 
@@ -16,7 +15,7 @@
 
 ## 🔍 Item 1 — 5 Sistemas Operacionais Derivados de Outros Sistemas
 
-![Coding GIF](https://media3.giphy.com/media/MmNS0GiYJf7rx8cZHO/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhid3Z0eHp5dzM0NzE2dTF1NjlvZWVmNDR2b2FqdWw5bXF6aGtzaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zOvBKUUEERdNm/giphy.gif)
 
 ---
 
@@ -52,7 +51,7 @@ O Chrome OS, desenvolvido pelo Google para Chromebooks, é baseado no kernel Lin
 
 ## 📊 Item 2 — Tabela Comparativa
 
-![Kali Linux OS GIF](https://media2.giphy.com/media/ddwUCGJ3l17U8JHLZr/200.gif)
+![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWVubnEwMmF3dGhsZ2Q2M2ZtZjk0czAwcWs3cmRrN2pzbmplYjJhOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/10mzF0YmVmZNuw/giphy.gif)
 
 | 🖥️ Sistema Operacional | 🧱 Sistema Base | ⚙️ Kernel | 🎯 Público-Alvo | 🎨 Interface | 📦 Distribuição | ⭐ Diferencial Principal |
 |---|---|---|---|---|---|---|
