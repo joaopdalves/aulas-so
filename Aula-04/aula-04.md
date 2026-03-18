@@ -198,5 +198,3 @@ A pesquisa evidencia que o reaproveitamento de sistemas operacionais existentes 
 - 🔄 **Suporte e atualizações contínuas:** comunidades ativas e ciclos de atualização regulares beneficiam todos os sistemas derivados.
 
 > 🐧 O **Linux** demonstra ser a base mais versátil da atualidade: está presente em smartphones (**Android**), Chromebooks (**Chrome OS**), servidores (**Ubuntu**) e dispositivos embarcados (**Raspberry Pi OS**), confirmando a importância de uma arquitetura de kernel bem projetada e de código aberto.
-
----
