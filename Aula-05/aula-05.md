@@ -278,5 +278,3 @@ Aqui vai um mini-guia de onde fica cada coisa:
 Você acabou de instalar e configurar um sistema operacional Linux dentro de uma máquina virtual! Isso é algo que muitos profissionais de tecnologia fazem no dia a dia.
 
 Agora você pode explorar o Linux Mint com segurança, sem riscos para o seu computador principal. Aproveite para descobrir novos programas, personalizar a aparência e aprender mais sobre esse incrível sistema operacional!
-
----
