@@ -130,28 +130,6 @@ A segurança e o monitoramento atuam em **todos os ambientes simultaneamente**:
 
 ---
 
-## 5. Prompt para Geração do Diagrama no Miro
-
-Cole o texto abaixo diretamente no **Miro AI** para gerar o diagrama/fluxograma da solução:
-
----
-
-> Crie um fluxograma de arquitetura de infraestrutura de TI para a startup DevStore, mostrando a evolução do ambiente atual para o ambiente proposto. O diagrama deve conter os seguintes estágios em fluxo sequencial:
->
-> **1. AMBIENTE LOCAL (Desenvolvedor):** Desenvolvedor → Git commit/push → Docker (docker-compose local com containers padronizados)
->
-> **2. PIPELINE CI/CD (GitHub Actions):** Pull Request → Testes automatizados → Build da imagem Docker → Push para Registry (Docker Hub ou ECR)
->
-> **3. AMBIENTE DE STAGING (VM Isolada / AWS EC2):** Deploy automático → Testes de integração → Aprovação para produção
->
-> **4. AMBIENTE DE PRODUÇÃO (AWS):** ECS ou EKS (containers orquestrados) → Load Balancer → RDS (banco de dados) → S3 (arquivos estáticos)
->
-> **5. SEGURANÇA E MONITORAMENTO (transversal a todos os ambientes):** IAM + Security Groups + CloudWatch/Grafana → Alertas e logs centralizados
->
-> Use cores distintas para cada camada: local = azul, CI/CD = amarelo, staging = laranja, produção = verde, segurança = vermelho. Mostre setas indicando o fluxo de código da máquina do desenvolvedor até a produção. Inclua ícones representando: computador (dev), engrenagem (CI/CD), servidor (staging), nuvem (AWS produção) e escudo (segurança).
-
----
-
 ## 6. Estratégias de Implantação, Manutenção e Expansão
 
 **Implantação:** Realizar a migração de forma incremental — primeiro containerizar as aplicações localmente, depois configurar o pipeline CI/CD, e por último migrar a produção para a nuvem. Isso reduz riscos e permite reversão em caso de problemas.
