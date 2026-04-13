@@ -130,7 +130,7 @@ A segurança e o monitoramento atuam em **todos os ambientes simultaneamente**:
 
 ---
 
-## 6. Estratégias de Implantação, Manutenção e Expansão
+## 5. Estratégias de Implantação, Manutenção e Expansão
 
 **Implantação:** Realizar a migração de forma incremental — primeiro containerizar as aplicações localmente, depois configurar o pipeline CI/CD, e por último migrar a produção para a nuvem. Isso reduz riscos e permite reversão em caso de problemas.
 
@@ -140,7 +140,7 @@ A segurança e o monitoramento atuam em **todos os ambientes simultaneamente**:
 
 ---
 
-## 7. Referências
+## 6. Referências
 
 - TANENBAUM, Andrew S.; BOS, Herbert. *Sistemas Operacionais Modernos*. 4. ed. São Paulo: Pearson, 2016.
 - SILBERSCHATZ, Abraham; GALVIN, Peter B.; GAGNE, Greg. *Fundamentos de Sistemas Operacionais*. 9. ed. Rio de Janeiro: LTC, 2015.
